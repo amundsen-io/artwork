@@ -1,3 +1,5 @@
+# Due to inactivity, this project was archived in September 2026. The contents will remain available for historical purposes.
+
 # Amundsen Related Logos and Artwork 
 In this repo, we provide Amundsen artwork in 2 standard formats (SVG/PNG), and in 3 versions (color/black/white). 
 
